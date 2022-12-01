@@ -1,2 +1,2 @@
 #!/bin/bash
--rwxr-xr-- /betty/hello
+chmod 644 /betty/hello
