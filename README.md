@@ -1,2 +1,2 @@
 # alx-system_engineering-devops
-for shell
+each script is to print a command
